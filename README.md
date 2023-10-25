@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Python</b>
-  - [Keylogger](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Keylogger](https://github.com/LexusG/Keylogger-Project)
 
 <h2> 🤳 Connect with me:</h2>
 
