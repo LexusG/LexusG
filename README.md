@@ -8,12 +8,12 @@
  
 - <b>SQL</b>
   - [SQL Vulnerability Assessment](https://github.com/LexusG/Keylogger-Project)
-  - 
+    
 
 <h2>✍️ Practice Projects:</h2>
 
 - <b>Python</b>
-  [TwitClone](https://github.com/LexusG/TwitClone---A-Twitter-Clone-Social-Media-App)
+ - [TwitClone](https://github.com/LexusG/TwitClone---A-Twitter-Clone-Social-Media-App)
 
 
 <h2> 🤳 Connect with me:</h2>
