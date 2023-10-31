@@ -5,6 +5,9 @@
 - <b>Python</b>
   - [Keylogger](https://github.com/LexusG/Keylogger-Project)
   - [A Program to Break a Caesar Cipher](https://github.com/LexusG/Cracking-Caesar-Cipher)
+ 
+- <b>SQL</b>
+  - [SQL Vulnerability Assessment](https://github.com/LexusG/Keylogger-Project)
 
 <h2> 🤳 Connect with me:</h2>
 
