@@ -17,6 +17,9 @@
 
 <h2 align="center">✍️ Practice Projects:</h2>
 
+- <b>Python</b>
+  - [Conway's Game of Life](https://github.com/LexusG/LIfe-Simulation-)
+
 <h2 align="center"> 🤳 Connect with me:</h2>
 
 
