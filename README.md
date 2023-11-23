@@ -27,6 +27,13 @@
 
 
 [linkedin]: https://www.linkedin.com/in/alex-griffiths-lg/
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+<h2 align="center"> My Github Stats :</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khamisilawrence&layout=compact&theme=vision-friendly-dark)](https://github.com/khamisilawrence/github-readme-stats)
 <!--
 **LexusG/LexusG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
