@@ -33,7 +33,7 @@
 
 <h2 align="center"> My Github Stats :</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khamisilawrence&layout=compact&theme=vision-friendly-dark)](https://github.com/khamisilawrence/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LexusG&layout=compact&theme=vision-friendly-dark)](https://github.com/LexusG/github-readme-stats)
 <!--
 **LexusG/LexusG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
