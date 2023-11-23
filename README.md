@@ -20,6 +20,8 @@
 - <b>Python</b>
   - [Conway's Game of Life](https://github.com/LexusG/LIfe-Simulation-)
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <h2 align="center"> 🤳 Connect with me:</h2>
 
 
@@ -31,7 +33,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<h2 align="center"> My Github Stats :</h2>
+<h2 align="center"> ⚡ My Github Stats :</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LexusG&layout=compact&theme=vision-friendly-dark)](https://github.com/LexusG/github-readme-stats)
 <!--
