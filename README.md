@@ -22,6 +22,9 @@
   - [Youtube Downloader Script](https://github.com/LexusG/Youtube-Downloader-Script-)
   - [Django Blog Website](https://github.com/LexusG/django_project)
 
+- <b>Rust</b>
+  - [Application for distributing my income](https://github.com/LexusG/incomeapp)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <h2 align="center"> 🤳 Connect with me:</h2>
