@@ -9,9 +9,13 @@
   - [Keylogger](https://github.com/LexusG/Keylogger-Project)
   - [A Program to Break a Caesar Cipher](https://github.com/LexusG/Cracking-Caesar-Cipher)
   - [Python Reverse Shell Script](https://github.com/LexusG/Reverse-Shell-)
- 
+
+<!-- I commented out the SQL project, add back when it is finished --> 
+    
+<!-- 
 - <b>SQL</b>
   - [SQL Vulnerability Assessment](https://github.com/LexusG/Keylogger-Project)
+-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 
