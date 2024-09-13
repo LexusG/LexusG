@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex! <br/><a href=https://www.linkedin.com/in/alex-griffiths-lg/>Cybersecurity Professional</a>, <a href=https://www.linkedin.com/in/alex-griffiths-lg/>Programmer</a> </h1>
+<h1>Hi, I'm Alex! <br/><a href=www.linkedin.com/in/dev-alex-griffiths>Cybersecurity Professional</a>, <a href=www.linkedin.com/in/dev-alex-griffiths>Programmer</a> </h1>
 
 <h2 align="center">👨‍💻 Cybersecurity Projects:</h2>
 <br>
@@ -37,7 +37,7 @@
 [<img align="center" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/alex-griffiths-lg/
+[linkedin]: www.linkedin.com/in/dev-alex-griffiths
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
