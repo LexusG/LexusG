@@ -26,8 +26,6 @@
   - [Youtube Downloader Script](https://github.com/LexusG/Youtube-Downloader-Script-)
   - [Django Blog Website](https://github.com/LexusG/django_project)
 
-- <b>Rust</b>
-  - [Application for distributing my income](https://github.com/LexusG/incomeapp)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -41,10 +39,6 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
-<h2 align="center"> ⚡ My Github stats :</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LexusG&layout=compact&theme=vision-friendly-dark)](https://github.com/LexusG/github-readme-stats)
 
 <!--
 **LexusG/LexusG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
