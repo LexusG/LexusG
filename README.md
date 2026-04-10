@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex! <br/><a href=www.linkedin.com/in/dev-alex-griffiths>Cybersecurity Professional</a>, <a href=www.linkedin.com/in/dev-alex-griffiths>Programmer</a> </h1>
+<h1>Hi, I'm Alex! <br/><a href=www.linkedin.com/in/dev-alex-griffiths>Cybersecurity Enthusiast</a>, <a href=www.linkedin.com/in/alex-griffiths-software-engineer>Software Engineer</a> </h1>
 
 <h2 align="center">👨‍💻 Cybersecurity Projects:</h2>
 <br>
